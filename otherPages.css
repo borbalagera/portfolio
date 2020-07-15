@@ -4,6 +4,9 @@ body {
   overflow-x: hidden;
 }
 
+a {
+  background-color: inherit;
+}
 .quarter {
   width: 33.33%;
   height: 100%;
