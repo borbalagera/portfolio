@@ -218,3 +218,8 @@ section .section-title {
   margin: 0;
   padding: 0;
 }
+
+.about {
+  padding-top: 10%;
+  margin: auto;
+}
